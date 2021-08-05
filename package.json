@@ -1,0 +1,22 @@
+{
+    "name": "darkvs",
+    "displayName": "DarkVs",
+    "description": "New Theme for Vs code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "publisher": "VishnuPriyan",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darkvs",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darkvs-color-theme.json"
+            }
+        ]
+    }
+}
