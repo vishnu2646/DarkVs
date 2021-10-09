@@ -8,3 +8,6 @@ This a New Theme For The Visual Studio Code.
 
 # Images After Changing
 ![Screenshot](https://user-images.githubusercontent.com/54699197/128329804-a3b2f305-8c51-4986-835c-0675449722c0.PNG)
+
+## For Installation
+* [Tap to Install the Extension](https://marketplace.visualstudio.com/items?itemName=VishnuPriyan.darkvs)
